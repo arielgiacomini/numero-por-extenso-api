@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>numero_por_extenso_api.Application</RootNamespace>
+  </PropertyGroup>
+
+</Project>
